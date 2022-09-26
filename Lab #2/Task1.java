@@ -1,8 +1,3 @@
-/*
-Deepak has written this program
-*/
-
-
 class Node
 {
 

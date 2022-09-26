@@ -1,9 +1,3 @@
-/*
-This program is written by Deepak from BSCS-III-E*/
-
-
-
-
 	class Node{
 	    String Name;
 	    Node next;

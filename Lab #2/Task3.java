@@ -1,7 +1,3 @@
-/*
-Deepak from BSCS-III-E has written this program */
-
-
 class Node{
     int data;
     Node next;
